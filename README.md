@@ -28,13 +28,9 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Neferxd31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub stats" />
 
+Soy estudiante de Ingeniería de Sistemas con una sólida formación en tecnologías de desarrollo web. Además, tengo experiencia como tutor, enseñando diversas materias académicas a nivel de primaria y secundaria, como matemáticas, ciencias, estudios sociales y lenguaje. Me especializo en temas relacionados con el idioma inglés, ayudando a los estudiantes a mejorar su gramática, vocabulario, pronunciación y habilidades generales de comunicación.
 
-  role: ["System Engineering Student", "Academic Tutor", "Freelance Web Developer"],
-  university: "Universidad Francisco de Paula Santander (UFPS)",
-  location: "Colombia 🇨🇴",
-  languages: ["Spanish", "English"],
-  focus: ["Web development", "Cloud", "Teaching"],
-  openTo: "Freelance projects & collaborations",
+Me caracterizo por ser una persona responsable, comprometido y con altos valores como la empatía, la honestidad y el trabajo en equipo, lo que me permite conectar con las personas y brindar un apoyo integral en el ámbito académico y profesional
 
 
 - 🎓 Studying **System Engineering** at UFPS
