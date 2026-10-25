@@ -10,22 +10,25 @@
 </p>
 
 <p align="center">
+  <a href="https://portafolionefer.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/nefer-sneyder-rojas-a7ba17280/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:nefersneyder31@gmail.com">
+  <a href="mailto:nefersneyder508@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://visitcount.itsvg.in/api?id=Neferxd31&icon=0&color=6" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Neferxd31&style=for-the-badge&color=bb9af7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Neferxd31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub stats" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Neferxd31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub stats" />
 
-
+```ts
 const nefer = {
   role: ["System Engineering Student", "Academic Tutor", "Freelance Web Developer"],
   university: "Universidad Francisco de Paula Santander (UFPS)",
@@ -34,14 +37,46 @@ const nefer = {
   focus: ["Web development", "Cloud", "Teaching"],
   openTo: "Freelance projects & collaborations",
 }
-
+```
 
 - 🎓 Studying **System Engineering** at UFPS
 - 👨‍🏫 Helping students learn as an **academic tutor**
 - 💻 Building web apps as a **freelance developer**
+- 🌐 Check my work at **[portafolionefer.netlify.app](https://portafolionefer.netlify.app/)**
 - 📫 Reach me at **nefersneyder508@gmail.com**
 
 <br clear="right" />
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Neferxd31/Pagina-de-negocio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neferxd31&repo=Pagina-de-negocio&theme=tokyonight&hide_border=true" alt="Pagina-de-negocio" />
+  </a>
+  <a href="https://github.com/Neferxd31/MVP-KoreVentas">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neferxd31&repo=MVP-KoreVentas&theme=tokyonight&hide_border=true" alt="MVP-KoreVentas" />
+  </a>
+  <a href="https://github.com/Neferxd31/curso-biofisica-medio-interno">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neferxd31&repo=curso-biofisica-medio-interno&theme=tokyonight&hide_border=true" alt="curso-biofisica-medio-interno" />
+  </a>
+  <a href="https://github.com/Neferxd31/Microcurriculos-proyecto">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neferxd31&repo=Microcurriculos-proyecto&theme=tokyonight&hide_border=true" alt="Microcurriculos-proyecto" />
+  </a>
+  <a href="https://github.com/Neferxd31/movilidad-segura">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neferxd31&repo=movilidad-segura&theme=tokyonight&hide_border=true" alt="movilidad-segura" />
+  </a>
+  <a href="https://github.com/Neferxd31/Portafolio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Neferxd31&repo=Portafolio&theme=tokyonight&hide_border=true" alt="Portafolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://korexaltech.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20demo-korexaltech.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" />
+  </a>
+</p>
 
 ---
 
@@ -55,7 +90,7 @@ const nefer = {
   <tr>
     <td align="center"><b>Frameworks</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=angular,nodejs,spring,tailwind&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=angular,astro,nodejs,spring,tailwind&theme=dark" />
       <img src="https://img.shields.io/badge/JavaFX-ED1C24?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="JavaFX" />
     </td>
   </tr>
@@ -83,13 +118,19 @@ const nefer = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Neferxd31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neferxd31&theme=tokyonight" alt="Contribution graph" />
 </p>
 
-### 🔝 Top Contributed Repos
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neferxd31&theme=tokyonight" alt="Repos per language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neferxd31&theme=tokyonight" alt="Most commit language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neferxd31&theme=tokyonight&utcOffset=-5" alt="Productive time" />
+</p>
+
+### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Neferxd31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top contributed repos" />
+  <img src="https://github-trophies.vercel.app/?username=Neferxd31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
 </p>
 
 ---
