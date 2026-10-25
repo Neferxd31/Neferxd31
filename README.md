@@ -28,7 +28,7 @@
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Neferxd31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub stats" />
 
-```ts
+
 const nefer = {
   role: ["System Engineering Student", "Academic Tutor", "Freelance Web Developer"],
   university: "Universidad Francisco de Paula Santander (UFPS)",
@@ -37,7 +37,6 @@ const nefer = {
   focus: ["Web development", "Cloud", "Teaching"],
   openTo: "Freelance projects & collaborations",
 }
-```
 
 - 🎓 Studying **System Engineering** at UFPS
 - 👨‍🏫 Helping students learn as an **academic tutor**
@@ -135,15 +134,7 @@ const nefer = {
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neferxd31/Neferxd31/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neferxd31/Neferxd31/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Neferxd31/Neferxd31/output/github-snake-dark.svg" />
-  </picture>
-</p>
 
 ---
 
