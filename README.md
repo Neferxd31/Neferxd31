@@ -29,14 +29,13 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Neferxd31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&rank_icon=github" alt="GitHub stats" />
 
 
-const nefer = {
   role: ["System Engineering Student", "Academic Tutor", "Freelance Web Developer"],
   university: "Universidad Francisco de Paula Santander (UFPS)",
   location: "Colombia 🇨🇴",
   languages: ["Spanish", "English"],
   focus: ["Web development", "Cloud", "Teaching"],
   openTo: "Freelance projects & collaborations",
-}
+
 
 - 🎓 Studying **System Engineering** at UFPS
 - 👨‍🏫 Helping students learn as an **academic tutor**
